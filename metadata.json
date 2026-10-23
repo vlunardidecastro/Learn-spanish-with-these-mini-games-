@@ -1,0 +1,6 @@
+{
+  "name": "Game Design & Prompt Studio",
+  "description": "Interactive Game Design Specification & Prompt Engineering Studio for turning ideas into production-ready prompts for AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
